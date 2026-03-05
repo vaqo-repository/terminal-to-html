@@ -1,0 +1,13 @@
+# Build
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Output
+*.html
+
+# IDE
+.vscode/
+.idea/
